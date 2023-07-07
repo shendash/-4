@@ -1,0 +1,14 @@
+ body{
+    background-color: aqua;
+}
+.smoll{
+    background-color: azure;
+    margin: 10px;
+    height: 100px;
+    width: 100px;
+}
+.big{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
